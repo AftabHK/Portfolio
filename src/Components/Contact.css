@@ -1,0 +1,8 @@
+#contact {
+  min-height: 100vh;
+}
+
+.btn-dark {
+  border-radius: 25px;
+  padding: 10px 25px;
+}
